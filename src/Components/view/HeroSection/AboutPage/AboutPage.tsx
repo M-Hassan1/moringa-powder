@@ -11,7 +11,7 @@ const AboutPage = () => {
       <div className="p-4">
           <h1 className="text-2xl font-oswald justify-center md:text-3xl font-bold mb-4">About Us</h1>
           <p className="text-sm font-oswald md:text-base lg:text-lg xl:text-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor ullamcorper malesuada. In maximus sem sed orci aliquam efficitur. Vivamus pellentesque magna a lorem lobortis, in pretium risus condimentum. Morbi vestibulum enim sit amet sem cursus, non mollis risus vestibulum.
+          Moringa powder is a nutrient-dense green powder derived from the leaves of the Moringa oleifera tree. It is rich in vitamins, minerals, antioxidants, and protein, making it a popular superfood and natural supplement with potential health benefits.
           </p>
         </div>
       </div>
